@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Daphineatim/ES6-Awesomebooks/issues"
   },
-  "homepage": "https://github.com/Daphineatim/ES6-Awesomebooks#readme"
+  "homepage": "https://github.com/Daphineatim/ES6-Awesomebooks#readme",
+  "devDependencies": {
+    "hint": "^7.1.2"
+  }
 }
